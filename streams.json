@@ -34,7 +34,7 @@
             "description": "Un profesor de química de preparatoria se convierte en productor de metanfetaminas después de ser diagnosticado con cáncer.",
             "episodes": [
                 {
-                    "id": "tt0959621",
+                    "id": "tt0903747:1:1",
                     "title": "Piloto",
                     "season": 1,
                     "episode": 1,
@@ -47,7 +47,7 @@
                     "season": 1,
                     "episode": 2,
                     "description": "Las consecuencias del incidente en la casa rodante.",
-                    "video": ""
+                    "video": "https://sample-videos.com/zip/10/mp4/mp4-sample.mp4"
                 }
             ]
         },
@@ -64,7 +64,7 @@
                     "season": 1,
                     "episode": 1,
                     "description": "Lord Stark es llamado a servir al rey mientras se descubren secretos peligrosos.",
-                    "video": ""
+                    "video": "https://sample-videos.com/zip/10/mp4/mp4-sample.mp4"
                 },
                 {
                     "id": "tt0944947:1:2",
@@ -72,7 +72,7 @@
                     "season": 1,
                     "episode": 2,
                     "description": "Mientras Ned viaja hacia el sur, Tyrion va hacia el Muro con Jon.",
-                    "video": ""
+                    "video": "https://sample-videos.com/zip/10/mp4/mp4-sample.mp4"
                 }
             ]
         },
@@ -89,7 +89,7 @@
                     "season": 1,
                     "episode": 1,
                     "description": "Un niño desaparece misteriosamente en el pequeño pueblo de Hawkins, Indiana.",
-                    "video": ""
+                    "video": "https://sample-videos.com/zip/10/mp4/mp4-sample.mp4"
                 },
                 {
                     "id": "tt4574334:1:2",
@@ -97,7 +97,7 @@
                     "season": 1,
                     "episode": 2,
                     "description": "La búsqueda de Will continúa mientras los niños conocen a una misteriosa niña.",
-                    "video": ""
+                    "video": "https://sample-videos.com/zip/10/mp4/mp4-sample.mp4"
                 }
             ]
         },
