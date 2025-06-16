@@ -1,0 +1,19 @@
+{
+  "id": "org.replit.stremio.customaddon",
+  "version": "1.0.0",
+  "name": "Catálogo Personalizado",
+  "description": "Películas y series populares con enlaces personalizados",
+  "resources": ["catalog", "stream"],
+  "types": ["movie", "series"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "personal-movies"
+    },
+    {
+      "type": "series",
+      "id": "personal-series"
+    }
+  ],
+  "idPrefixes": ["tt", "bb_", "got_", "st_"]
+}
