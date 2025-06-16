@@ -1,7 +1,7 @@
 {
   "id": "org.replit.stremio.customaddon",
   "version": "1.0.0",
-  "name": "Catálogo Personalizado",
+  "name": "Reproducir ahora",
   "description": "Películas y series populares con enlaces personalizados",
   "resources": ["catalog", "stream"],
   "types": ["movie", "series"],
