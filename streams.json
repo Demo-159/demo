@@ -102,14 +102,14 @@
             ]
         },
         {
-            "id": "tt0069863",
+            "id": "tt0229889",
             "title": "El Chavo del 8",
             "year": 1971,
             "poster": "https://image.tmdb.org/t/p/w500/fqJqJut4q4jWeNQaXVcW6kGa4HL.jpg",
             "description": "Las aventuras y travesuras de El Chavo, un niño huérfano que vive en una vecindad, junto a sus amigos Quico, La Chilindrina y los demás habitantes del barrio.",
             "episodes": [
                 {
-                    "id": "tt0069863:1:1",
+                    "id": "tt0229889:1:1",
                     "title": "Vacaciones en Acapulco",
                     "season": 1,
                     "episode": 1,
