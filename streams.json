@@ -100,6 +100,23 @@
                     "video": ""
                 }
             ]
+        },
+        {
+            "id": "tt0069863",
+            "title": "El Chavo del 8",
+            "year": 1971,
+            "poster": "https://image.tmdb.org/t/p/w500/fqJqJut4q4jWeNQaXVcW6kGa4HL.jpg",
+            "description": "Las aventuras y travesuras de El Chavo, un niño huérfano que vive en una vecindad, junto a sus amigos Quico, La Chilindrina y los demás habitantes del barrio.",
+            "episodes": [
+                {
+                    "id": "tt0069863:1:1",
+                    "title": "Vacaciones en Acapulco",
+                    "season": 1,
+                    "episode": 1,
+                    "description": "El Chavo y sus amigos de la vecindad viven una aventura especial durante sus vacaciones en Acapulco.",
+                    "video": "https://ia801806.us.archive.org/9/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4"
+                }
+            ]
         }
     ]
 }
