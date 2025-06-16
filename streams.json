@@ -1,1 +1,72 @@
-[{"id": "arch_movie_1", "title": "Night of the Living Dead (Movie)", "poster": "https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead.jpg", "description": "Horror clásico de dominio público.", "video": "https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4"}, {"id": "arch_series_1", "title": "Superman - S01E01 (Series)", "poster": "https://archive.org/download/superman_classic_cartoons/superman_cartoon.jpg", "description": "Primer episodio de la serie clásica de Superman.", "video": "https://archive.org/download/superman_classic_cartoons/Superman_1941.mp4"}]
+{
+    "movies": [
+        {
+            "id": "tt0133093",
+            "title": "The Matrix",
+            "year": 1999,
+            "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+            "description": "A hacker discovers the world is a simulation.",
+            "video": ""
+        },
+        {
+            "id": "tt1375666",
+            "title": "Inception",
+            "year": 2010,
+            "poster": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg",
+            "description": "A thief who steals corporate secrets through dreams.",
+            "video": ""
+        },
+        {
+            "id": "tt4154796",
+            "title": "Avengers: Endgame",
+            "year": 2019,
+            "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+            "description": "The Avengers assemble once more to reverse Thanos' actions.",
+            "video": ""
+        }
+    ],
+    "series": [
+        {
+            "id": "bb_s01e01",
+            "title": "Breaking Bad S01E01",
+            "poster": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+            "description": "Walter White begins his journey.",
+            "video": ""
+        },
+        {
+            "id": "bb_s01e02",
+            "title": "Breaking Bad S01E02",
+            "poster": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+            "description": "The aftermath of the RV incident.",
+            "video": ""
+        },
+        {
+            "id": "got_s01e01",
+            "title": "Game of Thrones S01E01",
+            "poster": "https://image.tmdb.org/t/p/w500/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+            "description": "Winter is coming.",
+            "video": ""
+        },
+        {
+            "id": "got_s01e02",
+            "title": "Game of Thrones S01E02",
+            "poster": "https://image.tmdb.org/t/p/w500/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+            "description": "The kingsroad.",
+            "video": ""
+        },
+        {
+            "id": "st_s01e01",
+            "title": "Stranger Things S01E01",
+            "poster": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+            "description": "A boy disappears mysteriously.",
+            "video": ""
+        },
+        {
+            "id": "st_s01e02",
+            "title": "Stranger Things S01E02",
+            "poster": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+            "description": "The search for Will continues.",
+            "video": ""
+        }
+    ]
+}
